@@ -43,7 +43,6 @@ Platform ecosystems, user lock-in, switching costs, network effects, ecosystem v
 **Teaching:**
 - ISB — Latitude Leadership Program
 - IIT Kanpur — Leadership at Scale, Disruptive Innovation & Entrepreneurship
-- CUHK — Graduate management education
 
 **Athletics:**
 Ironman 70.3 (sub-6:15 goal), marathon PB 3:33, half marathon PB 1:38. Structured periodization, Garmin data-driven training.
@@ -81,7 +80,6 @@ behavior in digital platforms, digital transformation, omni-channel operations
 
 ## Teaching
 ISB (Latitude Leadership), IIT Kanpur (Leadership at Scale, Disruptive Innovation), 
-CUHK (Graduate management)
 
 ## Athletics
 Triathlon/endurance — Ironman 70.3, marathon PB 3:33, half marathon PB 1:38. 
