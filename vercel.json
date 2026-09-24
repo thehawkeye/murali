@@ -1,0 +1,7 @@
+{
+  "rewrites": [
+    { "source": "/", "destination": "/pages/index.html" },
+    { "source": "/for-agents", "destination": "/pages/for-agents.md" },
+    { "source": "/muralikrishnan.md", "destination": "/pages/muralikrishnan.md" }
+  ]
+}
